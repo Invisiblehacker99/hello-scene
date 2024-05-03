@@ -1,2 +1,2 @@
 # hello-scene
-just a demo
+just a demo.
